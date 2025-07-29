@@ -28,9 +28,4 @@ Make sure these files are present in your project folder:
 - `eat.wav`
 - `bonus.wav`
 
----
 
-## ✅ How to Run
-
-1. Open the `.sln` or `.csproj` in **Visual Studio**
-2. Build and run the solution (F5)
